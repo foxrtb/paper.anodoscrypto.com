@@ -1,4 +1,4 @@
-# paper.anodoscrypro.com
+# paper.anodoscrypto.com
 JavaScript Client-Side ANDS Wallet Generator
 
 Now ANDS addresses and their corresponding private key can be conveniently

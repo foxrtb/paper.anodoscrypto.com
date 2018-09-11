@@ -48,11 +48,8 @@ END USER NOTES:
 
 Notice of Copyrights and Licenses:
 ---------------------------------------
-The paper.dash.org project, software and embedded resources are
-copyright The Dash Developers.
-
-The paper.dash.org name, Dash name and logo are not part of the open source
-license.
+The paper.anodoscrypto.com, software and embedded resources are
+copyright The anodoscoin Developers.
 
 The bitaddress.org project, software and embedded resources are
 copyright bitaddress.org.

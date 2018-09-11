@@ -1,7 +1,7 @@
-# paper.dash.org
-JavaScript Client-Side Dash Wallet Generator
+# paper.anodoscrypro.com
+JavaScript Client-Side ANDS Wallet Generator
 
-Now Dash addresses and their corresponding private key can be conveniently
+Now ANDS addresses and their corresponding private key can be conveniently
 generated in a web browser.
 
 ## Installation
